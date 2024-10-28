@@ -1,4 +1,5 @@
-<div style="display: flex; align-items: center; justify-content: center;">
+
+<div style="display: flex; align-items: center; justify-content: center;" align="center">
   <img src="../main/public/logo.png" alt="Logo" width="100px">
   <img src="../main/public/tOauth.png" alt="Logo" width="150px">
 </div>
