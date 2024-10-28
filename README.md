@@ -1,9 +1,9 @@
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="../tOauth/public/logo.png" alt="Logo" width="100px">
-  <img src="../tOauth/public/tOauth.png" alt="Logo" width="150px">
+  <img src="../main/public/logo.png" alt="Logo" width="100px">
+  <img src="../main/public/tOauth.png" alt="Logo" width="150px">
 </div>
-<img src="../tOauth/public/ss1.png">
-<img src="../tOauth/public/ss2.png">
+<img src="../main/public/ss1.png">
+<img src="../main/public/ss2.png">
 
 ```bash
 
