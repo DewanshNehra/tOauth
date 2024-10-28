@@ -7,7 +7,10 @@
 <img src="../main/public/ss2.png">
 
 ```bash
-
-Another  Next.js application that integrates with OAuth providers like GitHub and Discord google for authentication. 
+~$ cat ./README.md
+    Another  Next.js application that 
+    integrates with OAuth
+    providers like GitHub and Discord 
+    google for authentication. 
 
 ```
